@@ -2,7 +2,7 @@
 
 This repository contains the code related to the paper:
 
-Liimatainen et al. "Mapping microscale wetting variations on biological and synthetic water repellent surfaces" *Nature Communications*, 2017.
+Liimatainen et al. "Mapping microscale wetting variations on biological and synthetic water repellent surfaces" *Nature Communications* (2017) 1798.
 
 Please cite the code by referring to that paper.
 
