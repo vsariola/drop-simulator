@@ -4,6 +4,10 @@ This repository contains the code related to the paper:
 
 Liimatainen et al. "Mapping microscale wetting variations on biological and synthetic water repellent surfaces" *Nature Communications* (2017) 1798.
 
+doi:10.1038/s41467-017-01510-7
+
+https://www.nature.com/articles/s41467-017-01510-7
+
 Please cite the code by referring to that paper.
 
 What is it?
